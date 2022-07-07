@@ -101,7 +101,7 @@ body{
 
   .flex-container-for-sec2 > div {
     background-color: #f1f1f1;
-    margin: 10px;
+    margin: 10px ;
     padding: 9px;
     font-size: 30px;
     font-weight: 400;
@@ -147,6 +147,14 @@ body{
     display: flex;
   }
 
+  .sec3-half-width{
+    width: 90%;
+    padding-top: 5%;
+    padding-left: 5%;
+    margin: 5px;
+    text-align: justify;
+  }
+
   #section3-1stdiv{
     background-color: rgb(147, 224, 229);
     width: 300px;
@@ -186,8 +194,10 @@ body{
 
   .section-4-margin{
 
+    width: 95%;
     padding-top: 8%;
     padding-bottom: 4%;
+    margin: 5px;
   }
 
   #section4-1stdiv{
